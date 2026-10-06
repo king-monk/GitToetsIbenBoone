@@ -25,5 +25,5 @@ ANTWOORDEN: git show ecf1e6b
 
 OPDRACHT 7
 a. 
-b.
+b. vershil tussen git commit en git push is dat git commit 
 c.
