@@ -3,9 +3,25 @@ Naam: jouw voornaam en achternaam
 
 OPDRACHT 3
 1.
+COMANDO: git log --oneline --all --grep="Basiswebsite toegevoegd"
+ANTWOORDEN: ecf1e6b
+
+
 2.
+COMANDO: git log -1 --oneline -- index.html
+ANTWOORDEN: d92d01d Homepage naar versie 3
+
+
 3.
+COMANDO: 
+ANTWOORDEN:
+
+
 4.
+COMANDO: git show ecf1e6b
+ANTWOORDEN:
+
+
 
 OPDRACHT 7
 a.
