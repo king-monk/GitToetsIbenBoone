@@ -25,5 +25,5 @@ ANTWOORDEN: git show ecf1e6b
 
 OPDRACHT 7
 a. 
-b. vershil tussen git commit en git push is dat git commit 
+b. vershil tussen git commit en git push is dat git commit lokaal wijzigingen opslaat en push stuurt commits door naar de repo
 c.
