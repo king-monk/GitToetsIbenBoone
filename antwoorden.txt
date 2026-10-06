@@ -19,11 +19,11 @@ ANTWOORDEN:
 
 4.
 COMANDO: git show ecf1e6b
-ANTWOORDEN:
+ANTWOORDEN: git show ecf1e6b
 
 
 
 OPDRACHT 7
-a.
+a. 
 b.
 c.
